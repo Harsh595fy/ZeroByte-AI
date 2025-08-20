@@ -1,0 +1,6 @@
+gtts
+requests
+Flask==3.0.2
+requests==2.31.0
+gTTS==2.5.1
+python-dotenv==1.0.1

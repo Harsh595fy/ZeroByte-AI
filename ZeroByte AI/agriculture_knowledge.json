@@ -1,0 +1,715 @@
+{
+    "basic_qa": [
+      {
+        "question": "What is agriculture?",
+        "hindi_question": "कृषि क्या है?",
+        "answer": "Agriculture is the science and art of cultivating plants and raising livestock for food, fiber, and other products.",
+        "hindi_answer": "कृषि पौधों की खेती और पशुपालन का विज्ञान और कला है, जिसका उद्देश्य भोजन, फाइबर और अन्य उत्पादों का उत्पादन करना है।"
+      },
+      {
+        "question": "Why is agriculture important?",
+        "hindi_question": "कृषि क्यों महत्वपूर्ण है?",
+        "answer": "Agriculture is vital for food security, economic growth, and environmental sustainability. It provides raw materials for industries and supports livelihoods.",
+        "hindi_answer": "कृषि खाद्य सुरक्षा, आर्थिक विकास और पर्यावरणीय स्थिरता के लिए महत्वपूर्ण है। यह उद्योगों के लिए कच्चा माल प्रदान करती है और आजीविका को सहारा देती है।"
+      },
+      {
+        "question": "What are the main types of crops?",
+        "hindi_question": "फसलों के मुख्य प्रकार क्या हैं?",
+        "answer": "The main types of crops include food crops (e.g., wheat, rice), cash crops (e.g., cotton, tea), and horticultural crops (e.g., fruits, vegetables).",
+        "hindi_answer": "फसलों के मुख्य प्रकारों में खाद्य फसलें (जैसे गेहूं, चावल), नकदी फसलें (जैसे कपास, चाय), और बागवानी फसलें (जैसे फल, सब्जियां) शामिल हैं।"
+      },
+      {
+        "question": "What is organic farming?",
+        "hindi_question": "जैविक खेती क्या है?",
+        "answer": "Organic farming is a method of agriculture that avoids synthetic chemicals, relying on natural processes like composting and crop rotation to maintain soil health.",
+        "hindi_answer": "जैविक खेती कृषि की एक विधि है जो सिंथेटिक रसायनों से बचती है और मिट्टी की सेहत को बनाए रखने के लिए कम्पोस्टिंग और फसल चक्र जैसी प्राकृतिक प्रक्रियाओं पर निर्भर करती है।"
+      },
+      {
+        "question": "How does irrigation help in agriculture?",
+        "hindi_question": "सिंचाई कृषि में कैसे मदद करती है?",
+        "answer": "Irrigation ensures a consistent water supply to crops, especially in areas with irregular rainfall, improving yield and crop quality.",
+        "hindi_answer": "सिंचाई फसलों को लगातार पानी की आपूर्ति सुनिश्चित करती है, विशेष रूप से अनियमित वर्षा वाले क्षेत्रों में, जिससे उपज और फसल की गुणवत्ता में सुधार होता है।"
+      },
+      {
+        "question": "What is crop rotation?",
+        "hindi_question": "फसल चक्रण क्या है?",
+        "answer": "Crop rotation is the practice of growing different types of crops in the same area in sequential seasons to improve soil health and reduce pests.",
+        "hindi_answer": "फसल चक्रण एक ही क्षेत्र में विभिन्न प्रकार की फसलों को क्रमिक मौसमों में उगाने की प्रथा है जो मिट्टी की सेहत में सुधार करती है और कीटों को कम करती है।"
+      },
+      {
+        "question": "What are the benefits of mulching?",
+        "hindi_question": "मल्चिंग के क्या लाभ हैं?",
+        "answer": "Mulching helps retain soil moisture, suppress weeds, regulate soil temperature, and improve soil fertility as organic mulch decomposes.",
+        "hindi_answer": "मल्चिंग मिट्टी की नमी को बनाए रखने, खरपतवार को दबाने, मिट्टी के तापमान को नियंत्रित करने और जैविक मल्च के विघटित होने पर मिट्टी की उर्वरता को बढ़ाने में मदद करती है।"
+      },
+      {
+        "question": "What is hydroponics?",
+        "hindi_question": "हाइड्रोपोनिक्स क्या है?",
+        "answer": "Hydroponics is a method of growing plants without soil, using mineral nutrient solutions in water.",
+        "hindi_answer": "हाइड्रोपोनिक्स मिट्टी के बिना पौधे उगाने की एक विधि है, जिसमें पानी में खनिज पोषक तत्वों के घोल का उपयोग किया जाता है।"
+      },
+      {
+        "question": "What is precision agriculture?",
+        "hindi_question": "परिशुद्ध कृषि क्या है?",
+        "answer": "Precision agriculture uses technology like GPS, sensors and data analytics to optimize field-level management regarding crop farming.",
+        "hindi_answer": "परिशुद्ध कृषि जीपीएस, सेंसर और डेटा एनालिटिक्स जैसी तकनीक का उपयोग करती है ताकि फसल खेती के संबंध में खेत-स्तरीय प्रबंधन को अनुकूलित किया जा सके।"
+      },
+      {
+        "question": "What are cover crops?",
+        "hindi_question": "कवर फसलें क्या हैं?",
+        "answer": "Cover crops are plants grown primarily to protect and improve soil between periods of regular crop production.",
+        "hindi_answer": "कवर फसलें मुख्य रूप से नियमित फसल उत्पादन की अवधि के बीच मिट्टी की रक्षा और सुधार के लिए उगाई जाने वाली फसलें हैं।"
+      },
+      {
+        "question": "What is sustainable agriculture?",
+        "hindi_question": "सतत कृषि क्या है?",
+        "answer": "Sustainable agriculture focuses on producing food while maintaining ecological balance, conserving resources, and supporting farming communities.",
+        "hindi_answer": "सतत कृषि पारिस्थितिक संतुलन बनाए रखने, संसाधनों का संरक्षण करने और कृषि समुदायों का समर्थन करते हुए भोजन उत्पादन पर केंद्रित है।"
+      },
+      {
+        "question": "What are the main soil types for agriculture?",
+        "hindi_question": "कृषि के लिए मुख्य मिट्टी के प्रकार क्या हैं?",
+        "answer": "The main soil types are sandy, clay, silt, loam, and peat soils, each with different properties affecting plant growth.",
+        "hindi_answer": "मुख्य मिट्टी के प्रकार रेतीली, चिकनी, गाद, दोमट और पीट मिट्टी हैं, जिनमें से प्रत्येक के पौधों की वृद्धि को प्रभावित करने वाले अलग-अलग गुण होते हैं।"
+      },
+      {
+        "question": "What is integrated pest management?",
+        "hindi_question": "एकीकृत कीट प्रबंधन क्या है?",
+        "answer": "IPM is an ecosystem approach combining biological, cultural, physical and chemical tools to manage pests economically and environmentally.",
+        "hindi_answer": "आईपीएम एक पारिस्थितिकी तंत्र दृष्टिकोण है जो कीटों का आर्थिक और पर्यावरणीय रूप से प्रबंधन करने के लिए जैविक, सांस्कृतिक, भौतिक और रासायनिक उपकरणों को जोड़ता है।"
+      },
+      {
+        "question": "What are GMO crops?",
+        "hindi_question": "जीएमओ फसलें क्या हैं?",
+        "answer": "GMO (Genetically Modified Organism) crops are plants whose DNA has been altered using genetic engineering techniques.",
+        "hindi_answer": "जीएमओ (जेनेटिकली मॉडिफाइड ऑर्गेनिज्म) फसलें ऐसे पौधे हैं जिनके डीएनए को जेनेटिक इंजीनियरिंग तकनीकों का उपयोग करके बदला गया है।"
+      },
+      {
+        "question": "What is the importance of soil pH?",
+        "hindi_question": "मिट्टी का पीएच महत्वपूर्ण क्यों है?",
+        "answer": "Soil pH affects nutrient availability to plants and microbial activity, with most crops preferring slightly acidic to neutral pH (6.0-7.0).",
+        "hindi_answer": "मिट्टी का पीएच पौधों के लिए पोषक तत्वों की उपलब्धता और सूक्ष्मजीव गतिविधि को प्रभावित करता है, जिसमें अधिकांश फसलें थोड़ा अम्लीय से तटस्थ पीएच (6.0-7.0) पसंद करती हैं।"
+      },
+      {
+        "question": "What are the benefits of crop diversification?",
+        "hindi_question": "फसल विविधीकरण के क्या लाभ हैं?",
+        "answer": "Crop diversification reduces risk, improves soil health, controls pests, and provides more stable income for farmers.",
+        "hindi_answer": "फसल विविधीकरण जोखिम को कम करता है, मिट्टी के स्वास्थ्य में सुधार करता है, कीटों को नियंत्रित करता है और किसानों के लिए अधिक स्थिर आय प्रदान करता है।"
+      },
+      {
+        "question": "What is vertical farming?",
+        "hindi_question": "ऊर्ध्वाधर खेती क्या है?",
+        "answer": "Vertical farming grows crops in stacked layers, often indoors, using controlled-environment agriculture technology.",
+        "hindi_answer": "ऊर्ध्वाधर खेती नियंत्रित-पर्यावरण कृषि तकनीक का उपयोग करके, अक्सर घर के अंदर, स्टैक्ड परतों में फसलें उगाती है।"
+      },
+      {
+        "question": "What are the main agricultural seasons in India?",
+        "hindi_question": "भारत में मुख्य कृषि ऋतुएं कौन सी हैं?",
+        "answer": "India has three main agricultural seasons: Kharif (monsoon), Rabi (winter), and Zaid (summer).",
+        "hindi_answer": "भारत में तीन मुख्य कृषि ऋतुएं हैं: खरीफ (मानसून), रबी (सर्दी), और जायद (गर्मी)।"
+      },
+      {
+        "question": "What is the Green Revolution?",
+        "hindi_question": "हरित क्रांति क्या है?",
+        "answer": "The Green Revolution was a period of agricultural transformation in the 1960s that introduced high-yielding crop varieties and modern farming techniques.",
+        "hindi_answer": "हरित क्रांति 1960 के दशक में कृषि परिवर्तन की एक अवधि थी जिसने उच्च उपज देने वाली फसल किस्मों और आधुनिक खेती तकनीकों को पेश किया।"
+      },
+      {
+        "question": "What are the advantages of drip irrigation?",
+        "hindi_question": "ड्रिप सिंचाई के क्या फायदे हैं?",
+        "answer": "Drip irrigation saves water, reduces weed growth, prevents soil erosion, and delivers water directly to plant roots.",
+        "hindi_answer": "ड्रिप सिंचाई पानी बचाती है, खरपतवार के विकास को कम करती है, मिट्टी के कटाव को रोकती है और पानी को सीधे पौधों की जड़ों तक पहुंचाती है।"
+      },
+      {
+        "question": "What is agroforestry?",
+        "hindi_question": "कृषि वानिकी क्या है?",
+        "answer": "Agroforestry integrates trees and shrubs with crops and/or livestock to create more diverse, productive and sustainable land-use systems.",
+        "hindi_answer": "कृषि वानिकी अधिक विविध, उत्पादक और स्थायी भूमि-उपयोग प्रणालियों को बनाने के लिए पेड़ों और झाड़ियों को फसलों और/या पशुओं के साथ एकीकृत करती है।"
+      },
+      {
+        "question": "What are the main nutrients plants need?",
+        "hindi_question": "पौधों को कौन से मुख्य पोषक तत्वों की आवश्यकता होती है?",
+        "answer": "Plants primarily need nitrogen (N), phosphorus (P), and potassium (K), along with secondary nutrients and micronutrients.",
+        "hindi_answer": "पौधों को मुख्य रूप से नाइट्रोजन (N), फॉस्फोरस (P), और पोटेशियम (K) की आवश्यकता होती है, साथ ही द्वितीयक पोषक तत्वों और सूक्ष्म पोषक तत्वों की भी आवश्यकता होती है।"
+      },
+      {
+        "question": "What is soil erosion?",
+        "hindi_question": "मृदा अपरदन क्या है?",
+        "answer": "Soil erosion is the removal of topsoil by natural forces like wind and water, often accelerated by human activities like deforestation.",
+        "hindi_answer": "मृदा अपरदन हवा और पानी जैसी प्राकृतिक शक्तियों द्वारा ऊपरी मिट्टी का हटना है, जो अक्सर वनों की कटाई जैसी मानव गतिविधियों से तेज हो जाता है।"
+      },
+      {
+        "question": "What is the role of bees in agriculture?",
+        "hindi_question": "कृषि में मधुमक्खियों की क्या भूमिका है?",
+        "answer": "Bees are crucial pollinators that help in the reproduction of many crops, increasing yield and quality of fruits and seeds.",
+        "hindi_answer": "मधुमक्खियां महत्वपूर्ण परागणकर्ता हैं जो कई फसलों के प्रजनन में मदद करती हैं, फलों और बीजों की उपज और गुणवत्ता को बढ़ाती हैं।"
+      },
+      {
+        "question": "What is terrace farming?",
+        "hindi_question": "सीढ़ीदार खेती क्या है?",
+        "answer": "Terrace farming creates stepped fields on hillsides to prevent soil erosion and make cultivation possible on steep slopes.",
+        "hindi_answer": "सीढ़ीदार खेती मिट्टी के कटाव को रोकने और खड़ी ढलानों पर खेती को संभव बनाने के लिए पहाड़ियों पर सीढ़ीदार खेत बनाती है।"
+      },
+      {
+        "question": "What is hydroponics?",
+        "hindi_question": "हाइड्रोपोनिक्स क्या है?",
+        "answer": "Hydroponics is a method of growing plants without soil, using mineral nutrient solutions in water.",
+        "hindi_answer": "हाइड्रोपोनिक्स मिट्टी के बिना पौधे उगाने की एक विधि है, जिसमें पानी में खनिज पोषक तत्वों के घोल का उपयोग किया जाता है।"
+      },
+      {
+        "question": "What are heirloom seeds?",
+        "hindi_question": "विरासत बीज क्या हैं?",
+        "answer": "Heirloom seeds are open-pollinated varieties passed down through generations, known for their genetic diversity and flavor.",
+        "hindi_answer": "विरासत बीज खुले परागण वाली किस्में हैं जो पीढ़ियों से चली आ रही हैं, जो अपने आनुवंशिक विविधता और स्वाद के लिए जानी जाती हैं।"
+      },
+      {
+        "question": "What is the difference between compost and fertilizer?",
+        "hindi_question": "कम्पोस्ट और उर्वरक में क्या अंतर है?",
+        "answer": "Compost is organic matter decomposed to improve soil structure, while fertilizer provides specific nutrients to plants in concentrated form.",
+        "hindi_answer": "कम्पोस्ट मिट्टी की संरचना में सुधार के लिए विघटित किया गया कार्बनिक पदार्थ है, जबकि उर्वरक पौधों को केंद्रित रूप में विशिष्ट पोषक तत्व प्रदान करता है।"
+      },
+      {
+        "question": "What is aquaponics?",
+        "hindi_question": "एक्वापोनिक्स क्या है?",
+        "answer": "Aquaponics combines aquaculture (raising fish) with hydroponics in a symbiotic system where fish waste fertilizes plants.",
+        "hindi_answer": "एक्वापोनिक्स जलीय कृषि (मछली पालन) को हाइड्रोपोनिक्स के साथ एक सहजीवी प्रणाली में जोड़ता है जहां मछली का अपशिष्ट पौधों को उर्वरित करता है।"
+      },
+      {
+        "question": "What are the main types of agricultural machinery?",
+        "hindi_question": "कृषि मशीनरी के मुख्य प्रकार क्या हैं?",
+        "answer": "Main types include tractors, plows, seed drills, harvesters, irrigation systems, and processing equipment.",
+        "hindi_answer": "मुख्य प्रकारों में ट्रैक्टर, हल, बीज ड्रिल, हार्वेस्टर, सिंचाई प्रणाली और प्रसंस्करण उपकरण शामिल हैं।"
+      },
+      {
+        "question": "What is the importance of soil testing?",
+        "hindi_question": "मिट्टी परीक्षण का क्या महत्व है?",
+        "answer": "Soil testing helps determine nutrient levels, pH, and other properties to guide proper fertilization and soil management.",
+        "hindi_answer": "मिट्टी परीक्षण उचित उर्वरीकरण और मिट्टी प्रबंधन का मार्गदर्शन करने के लिए पोषक तत्व स्तर, पीएच और अन्य गुणों को निर्धारित करने में मदद करता है।"
+      },
+      {
+        "question": "What is the role of earthworms in agriculture?",
+        "hindi_question": "कृषि में केंचुओं की क्या भूमिका है?",
+        "answer": "Earthworms improve soil structure, aeration, and nutrient cycling through their burrowing and casting activities.",
+        "hindi_answer": "केंचुए अपनी खुदाई और मल त्याग गतिविधियों के माध्यम से मिट्टी की संरचना, वातन और पोषक तत्व चक्रण में सुधार करते हैं।"
+      },
+      {
+        "question": "What is the difference between hybrid and GMO seeds?",
+        "hindi_question": "संकर और जीएमओ बीज में क्या अंतर है?",
+        "answer": "Hybrid seeds result from cross-pollination of different varieties, while GMO seeds have DNA altered through genetic engineering.",
+        "hindi_answer": "संकर बीज विभिन्न किस्मों के पार-परागण से उत्पन्न होते हैं, जबकि जीएमओ बीजों का डीएनए आनुवंशिक इंजीनियरिंग के माध्यम से बदला जाता है।"
+      },
+      {
+        "question": "What is the importance of seed banks?",
+        "hindi_question": "बीज बैंकों का क्या महत्व है?",
+        "answer": "Seed banks preserve genetic diversity of plants for future use, protecting against crop failures and climate change impacts.",
+        "hindi_answer": "बीज बैंक भविष्य के उपयोग के लिए पौधों की आनुवंशिक विविधता को संरक्षित करते हैं, फसल विफलताओं और जलवायु परिवर्तन के प्रभावों से बचाते हैं।"
+      },
+      {
+        "question": "What is urban agriculture?",
+        "hindi_question": "शहरी कृषि क्या है?",
+        "answer": "Urban agriculture involves growing food in cities through community gardens, rooftop farms, and other innovative methods.",
+        "hindi_answer": "शहरी कृषि में सामुदायिक बागानों, छत के खेतों और अन्य नवीन तरीकों के माध्यम से शहरों में भोजन उगाना शामिल है।"
+      },
+      {
+        "question": "What are the benefits of no-till farming?",
+        "hindi_question": "नो-टिल खेती के क्या लाभ हैं?",
+        "answer": "No-till farming reduces soil erosion, improves water retention, saves fuel costs, and increases soil organic matter over time.",
+        "hindi_answer": "नो-टिल खेती मिट्टी के कटाव को कम करती है, जल धारण में सुधार करती है, ईंधन लागत बचाती है और समय के साथ मिट्टी के कार्बनिक पदार्थ को बढ़ाती है।"
+      },
+      {
+        "question": "What is permaculture?",
+        "hindi_question": "पर्माकल्चर क्या है?",
+        "answer": "Permaculture is a design system for sustainable living and agriculture that mimics natural ecosystems.",
+        "hindi_answer": "पर्माकल्चर स्थायी जीवन और कृषि के लिए एक डिजाइन प्रणाली है जो प्राकृतिक पारिस्थितिक तंत्र की नकल करती है।"
+      },
+      {
+        "question": "What are the main challenges in modern agriculture?",
+        "hindi_question": "आधुनिक कृषि में मुख्य चुनौतियाँ क्या हैं?",
+        "answer": "Challenges include climate change, soil degradation, water scarcity, pest resistance, and maintaining farmer profitability.",
+        "hindi_answer": "चुनौतियों में जलवायु परिवर्तन, मिट्टी का क्षरण, जल की कमी, कीट प्रतिरोध और किसानों की लाभप्रदता बनाए रखना शामिल है।"
+      },
+      {
+        "question": "who is your developer?",
+        "hindi_question": "आपका डेवलपर कैसा है?",
+        "answer": "My developer Mr Harsh Singh Rao B.C.A 3rd Semester Student and their team who find resources for me: Gayatri Jala, Sachin Panwar",
+        "hindi_answer": "मेरे डेवलपर श्री हर्ष सिंह राव बी.सी.ए. तीसरे सेमेस्टर के छात्र हैं और मेरे लिए संसाधन खोजने वाली उनकी टीम: गायत्री जाला, सचिन पंवार"
+      },
+
+    {
+      "question": "tomato growing",
+      "hindi_question": "टमाटर उगाना",
+      "answer": "Tomatoes are warm-season plants that produce red, yellow, or orange fruits used in many cuisines worldwide.",
+      "hindi_answer": "टमाटर गर्म मौसम की फसल है जिसमें लाल, पीले या नारंगी फल लगते हैं जो दुनिया भर में कई व्यंजनों में उपयोग किए जाते हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg"
+    },
+    {
+      "question": "brinjal growing",
+      "hindi_question": "बैंगन उगाना",
+      "answer": "Brinjal is a purple or green vegetable with a spongy texture. It is widely used in Indian curries, fries, and roasted dishes.",
+      "hindi_answer": "बैंगन एक बैंगनी या हरी सब्जी है जिसकी बनावट स्पंजी होती है। इसे भारतीय करी, भुजिया और भुने हुए व्यंजनों में व्यापक रूप से उपयोग किया जाता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Solanum_melongena_24_08_2012_%281%29.JPG"
+    },
+    {
+      "question": "kohlrabi growing",
+      "hindi_question": "गांठ गोभी उगाना",
+      "answer": "Kohlrabi is a stout, round vegetable with edible leaves and stems, known for its crisp texture and mild flavor.",
+      "hindi_answer": "गांठ गोभी एक गोलाकार सब्जी है जिसकी पत्तियां और डंठल खाने योग्य होते हैं, इसका स्वाद हल्का और बनावट कुरकुरी होती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kohlrabi.jpg"
+    },
+    {
+      "question": "leek growing",
+      "hindi_question": "लीक उगाना",
+      "answer": "Leeks are a mild-flavored allium with long white stalks and green leaves.",
+      "hindi_answer": "लीक एक हल्के स्वाद वाली एलियम है जिसमें लंबा सफेद डंठल और हरी पत्तियां होती हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Leek_on_white_background_-_0947.jpg/250px-Leek_on_white_background_-_0947.jpg"
+    },
+    {
+      "question": "lotus root growing",
+      "hindi_question": "कमल ककड़ी उगाना",
+      "answer": "Lotus root is an edible rhizome with a crunchy texture and a slightly sweet flavor.",
+      "hindi_answer": "कमल ककड़ी एक खाने योग्य राइजोम है जिसकी बनावट कुरकुरी और स्वाद हल्का मीठा होता है।",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4FDz3-wl6QQCEzYu6FcLCMe7Lu44QFLsjg&s"
+    },
+    {
+      "question": "malabar spinach growing",
+      "hindi_question": "पोई साग उगाना",
+      "answer": "Malabar spinach is a heat-tolerant leafy vine with succulent leaves.",
+      "hindi_answer": "पोई साग एक गर्मी सहन करने वाली पत्तेदार बेल है जिसकी पत्तियां रसीली होती हैं।",
+      "image": "https://edis.ifas.ufl.edu/image/HS1371/Di2dpve4zt/Dxpmazftn1/Dxpmazftn1-1080.webp"
+    },
+    {
+      "question": "mizuna growing",
+      "hindi_question": "मिजुना उगाना",
+      "answer": "Mizuna is a Japanese leafy green with a mild peppery flavor.",
+      "hindi_answer": "मिजुना एक जापानी पत्तेदार साग है जिसका स्वाद हल्का तीखा होता है।",
+      "image": "https://urjaseeds.com/cdn/shop/products/Mizuna_green_cc0df901-cbf5-4333-9bc3-087bfe1e6ca7.jpg?v=1659353604"
+    },
+    {
+      "question": "moringa growing",
+      "hindi_question": "सहजन उगाना",
+      "answer": "Moringa is a nutrient-rich plant whose leaves and pods are both edible.",
+      "hindi_answer": "सहजन एक पोषक तत्वों से भरपूर पौधा है जिसकी पत्तियां और फली दोनों खाने योग्य होती हैं।",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ-FN5HTbHxz-2d97c_Ds93mzRMHgydEAugB7tSYAjt2rWTjXfGFnsbguIZUI_F_A2RwI7LEi7pI3BNVc_ec2HFshLqkwep_h-MqUum3bYlg"
+    },
+    {
+      "question": "mustard greens growing",
+      "hindi_question": "सरसों का साग उगाना",
+      "answer": "Mustard greens have a peppery taste and are rich in vitamins.",
+      "hindi_answer": "सरसों का साग तीखा स्वाद देता है और विटामिन से भरपूर होता है।",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv8-sYJohJuyHo3JNK32hgOg1G6g8XPJ4C7VOg5tFd8ITC9vGikTjtIret9a8-94xzq26gFCpy3qKvwz_Sk2DdX8CAefJ498qdPdNNNvUI"
+    },
+    {
+      "question": "nopal growing",
+      "hindi_question": "कैक्टस पत्ता उगाना",
+      "answer": "Nopal is the edible pad of the prickly pear cactus, common in Mexican cuisine.",
+      "hindi_answer": "कैक्टस पत्ता नाशपाती कैक्टस का खाने योग्य भाग है, जो मैक्सिकन व्यंजनों में आम है।",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SOCGPnTCkuLMyrRzNk0rx7oqpHsHA8aZpqmEPrU4LjzqQLiBETA81gQ7HbbjCrEnvTo2gtEpozZMuPIsw9ScfE298soyi3wlSurA0FpJ1A"
+    },
+    {
+      "question": "turnip growing",
+      "hindi_question": "शलगम उगाना",
+      "answer": "Turnips are root vegetables with edible leaves, known for their slightly spicy flavor.",
+      "hindi_answer": "शलगम एक जड़ वाली सब्जी है जिसकी पत्तियां भी खाने योग्य होती हैं, और इसका स्वाद हल्का तीखा होता है।",
+      "image": "https://cdn.britannica.com/34/118334-050-FFD7754E/Turnips.jpg?w=300"
+    },
+    {
+      "question": "parsnip growing",
+      "hindi_question": "शलगम गाजर उगाना",
+      "answer": "Parsnips are sweet, nutty-flavored root vegetables similar to carrots.",
+      "hindi_answer": "शलगम गाजर एक मीठे और मेवे जैसे स्वाद वाली जड़ वाली सब्जी है जो गाजर के समान होती है।",
+      "image": "https://cdn.britannica.com/18/136018-050-C4A6E881/Parsnips.jpg?w=300"
+    },
+    {
+      "question": "artichoke growing",
+      "hindi_question": "हाथी चक उगाना",
+      "answer": "Artichokes are thistle-like plants cultivated for their edible flower buds.",
+      "hindi_answer": "आर्टिचोक एक कांटेदार पौधा है जिसे इसके खाने योग्य फूलों के लिए उगाया जाता है।",
+      "image": "https://cdn.britannica.com/16/191616-050-6FF60400/artichoke-heads-sale.jpg?w=300"
+    },
+    {
+      "question": "bamboo shoot growing",
+      "hindi_question": "बांस की कोंपल उगाना",
+      "answer": "Bamboo shoots are edible sprouts of the bamboo plant, popular in Asian cuisine.",
+      "hindi_answer": "बांस की कोंपल बांस के पौधे की खाने योग्य अंकुर होती है, जो एशियाई व्यंजनों में लोकप्रिय है।",
+      "image": "https://cdn.britannica.com/94/13194-004-B3F5ECB5/Bamboo.jpg?w=300"
+    },
+    {
+      "question": "onion growing",
+      "hindi_question": "प्याज उगाना",
+      "answer": "Onions are bulb vegetables with a strong flavor, used fresh, cooked, or dried in cuisines worldwide.",
+      "hindi_answer": "प्याज एक बल्ब वाली सब्जी है जिसका स्वाद तीखा होता है और जिसे दुनिया भर में ताजा, पकाकर या सुखाकर खाया जाता है।",
+      "image": "https://cdn.britannica.com/21/174321-050-AA81C4C9/onion-Allium-cepa-bulbs.jpg?w=300"
+    },
+    {
+      "question": "asparagus growing",
+      "hindi_question": "शतावरी उगाना",
+      "answer": "Asparagus is a perennial vegetable grown for its tender edible shoots.",
+      "hindi_answer": "शतावरी एक बहुवर्षीय सब्जी है जिसे इसके कोमल खाने योग्य अंकुरों के लिए उगाया जाता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asparagus-Bundle.jpg/250px-Asparagus-Bundle.jpg"
+    },
+    {
+      "question": "kale growing",
+      "hindi_question": "केल उगाना",
+      "answer": "Kale is a leafy green vegetable rich in vitamins and minerals, eaten raw or cooked.",
+      "hindi_answer": "केल एक पत्तेदार हरी सब्जी है जो विटामिन और खनिजों से भरपूर होती है, इसे कच्चा या पकाकर खाया जाता है।",
+      "image": "https://cdn.britannica.com/74/181374-050-83F7B492/kale-leaves.jpg?w=300"
+    },
+    {
+      "question": "broccoli growing",
+      "hindi_question": "ब्रोकोली उगाना",
+      "answer": "Broccoli is a cool-season vegetable related to cabbage, grown for its edible green flower heads.",
+      "hindi_answer": "ब्रोकोली एक ठंडे मौसम की सब्जी है जो पत्ता गोभी से संबंधित है और इसके हरे खाने योग्य फूलों के लिए उगाई जाती है।",
+      "image": "https://cdn.britannica.com/15/136015-050-42C0D895/Broccoli.jpg?w=300"
+    },
+    {
+      "question": "bitter melon growing",
+      "hindi_question": "करेला उगाना",
+      "answer": "Bitter melon is a tropical and subtropical vine of the gourd family, known for its edible fruit with a bitter taste.",
+      "hindi_answer": "करेला एक उष्णकटिबंधीय और उपोष्णकटिबंधीय बेल है, जो इसके कड़वे स्वाद वाले फल के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/91/170791-050-13189FE2/bitter-melon.jpg?w=300"
+    },
+    {
+      "question": "beetroot growing",
+      "hindi_question": "चुकंदर उगाना",
+      "answer": "Beetroot is cultivated for its edible taproot and leaves, both rich in nutrients.",
+      "hindi_answer": "चुकंदर को इसके पौष्टिक जड़ और पत्तियों के लिए उगाया जाता है।",
+      "image": "https://cdn.britannica.com/90/157390-050-68CA2798/beetroot.jpg?w=300"
+    },
+    {
+      "question": "okra growing",
+      "hindi_question": "भिंडी उगाना",
+      "answer": "Okra is a warm-season vegetable known for its edible green seed pods.",
+      "hindi_answer": "भिंडी एक गर्म मौसम की सब्जी है, जो अपने हरे बीज के फली के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/60/157660-050-99656755/Okra-fruits-section.jpg?w=300"
+    },
+    {
+      "question": "radish growing",
+      "hindi_question": "मूली उगाना",
+      "answer": "Radishes are crisp, peppery root vegetables grown quickly in cool seasons.",
+      "hindi_answer": "मूली कुरकुरी और तीखे स्वाद वाली जड़ वाली सब्जी है जो ठंडे मौसम में तेजी से उगती है।",
+      "image": "https://cdn.britannica.com/60/174360-050-4574723B/radish-roots.jpg?w=300"
+    },
+    {
+      "question": "sweet corn growing",
+      "hindi_question": "भुट्टा उगाना",
+      "answer": "Sweet corn is a variety of maize with high sugar content, eaten fresh, grilled, or boiled.",
+      "hindi_answer": "भुट्टा एक मीठे स्वाद वाली मक्का की किस्म है जिसे ताजा, ग्रिल या उबालकर खाया जाता है।",
+      "image": "https://cdn.britannica.com/24/191624-050-88053885/Feed-corn-harvest-field-Kings-Hill-County.jpg?w=300"
+    },
+    {
+      "question": "pumpkin growing",
+      "hindi_question": "कद्दू उगाना",
+      "answer": "Pumpkins are large, orange or green fruits used in soups, pies, and curries.",
+      "hindi_answer": "कद्दू बड़े, नारंगी या हरे रंग के फल होते हैं जिन्हें सूप, पाई और सब्जियों में उपयोग किया जाता है।",
+      "image": "https://cdn.britannica.com/00/174400-050-9B250903/pumpkin-harvest.jpg?w=300"
+    },
+    {
+      "question": "spinach growing",
+      "hindi_question": "पालक उगाना",
+      "answer": "Spinach is a leafy vegetable rich in iron and vitamins, eaten raw or cooked.",
+      "hindi_answer": "पालक एक पत्तेदार सब्जी है जो आयरन और विटामिन से भरपूर होती है और इसे कच्चा या पकाकर खाया जाता है।",
+      "image": "https://cdn.britannica.com/30/82530-050-79911DD4/Spinach-leaves-vitamins-source-person.jpg?w=300"
+    },
+    {
+      "question": "apple growing",
+      "hindi_question": "सेब उगाना",
+      "answer": "Crisp, sweet or tart fruits with a red, green, or yellow skin. Grows on trees in temperate climates.",
+      "hindi_answer": "खट्टे या मीठे, लाल, हरे या पीले रंग के फल। समशीतोष्ण जलवायु में पेड़ों पर उगते हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "question": "apricot growing",
+      "hindi_question": "खुबानी उगाना",
+      "answer": "A small, golden-orange fruit with a velvety skin and flesh, and a single seed inside.",
+      "hindi_answer": "एक छोटा, सुनहरा-नारंगी फल जिसमें मखमली त्वचा और गूदा होता है, और अंदर एक ही बीज होता है।",
+      "image": "https://cdn.britannica.com/36/160636-050-B1DC5C0A/Laetrile-apricot-pits.jpg?w=300"
+    },
+    {
+      "question": "banana growing",
+      "hindi_question": "केला उगाना",
+      "answer": "An elongated, edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+      "hindi_answer": "मूसा जीनस में कई प्रकार के बड़े शाकाहारी फूलों के पौधों द्वारा उत्पादित एक लंबा, खाद्य फल, वानस्पतिक रूप से एक बेरी।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bananas_white_background.jpg"
+    },
+    {
+      "question": "blackberry growing",
+      "hindi_question": "ब्लैकबेरी उगाना",
+      "answer": "A dark purple to black aggregate fruit, composed of many small drupelets.",
+      "hindi_answer": "एक गहरा बैंगनी से काला समग्र फल, जो कई छोटे ड्रूपलेट से बना है।",
+      "image": "https://cdn.britannica.com/06/186306-050-93C41044/blackberries-blackberry-fruit-aggregate-drupelets-flower-carpels.jpg?w=300"
+    },
+    {
+      "question": "blueberry growing",
+      "hindi_question": "नीलबदरी उगाना",
+      "answer": "A small, round, blue-colored berry that grows on a shrub. They have a sweet and slightly tart flavor.",
+      "hindi_answer": "एक छोटा, गोल, नीले रंग का बेर जो झाड़ी पर उगता है। इनका स्वाद मीठा और थोड़ा खट्टा होता है।",
+      "image": "https://cdn.britannica.com/33/93133-050-428BE9C3/Cluster-berries-highbush-blueberry.jpg?w=300"
+    },
+    {
+      "question": "cantaloupe growing",
+      "hindi_question": "खरबूजा उगाना",
+      "answer": "A type of melon with a rough, webbed, tan-colored skin and sweet, orange flesh.",
+      "hindi_answer": "एक प्रकार का खरबूजा जिसमें खुरदरी, जालीदार, तन-रंग की त्वचा और मीठा, नारंगी गूदा होता है।",
+      "image": "https://cdn.britannica.com/09/194709-050-25D83BAC/Pumpkins-gourds-Cucurbitales.jpg?w=300"
+    },
+    {
+      "question": "cherry growing",
+      "hindi_question": "चेरी उगाना",
+      "answer": "A small, round stone fruit that is typically bright or dark red.",
+      "hindi_answer": "एक छोटा, गोल पत्थर का फल जो आमतौर पर चमकीला या गहरा लाल होता है।",
+      "image": "https://cdn.britannica.com/60/174560-050-5A33606F/cherries-Cluster.jpg?w=300"
+    },
+    {
+      "question": "cranberry growing",
+      "hindi_question": "करौंदा उगाना",
+      "answer": "A small, tart, red berry that grows on low-lying vines in bogs. Often used in sauces and juices.",
+      "hindi_answer": "एक छोटा, खट्टा, लाल बेर जो दलदल में नीची लताओं पर उगता है। अक्सर सॉस और जूस में इस्तेमाल किया जाता है।",
+      "image": "https://cdn.britannica.com/10/187210-050-205CC3DD/cranberries.jpg?w=300"
+    },
+    {
+      "question": "dragon fruit growing",
+      "hindi_question": "ड्रैगन फ्रूट उगाना",
+      "answer": "A fruit from a cactus with a bright pink or yellow skin and white or red flesh with tiny black seeds.",
+      "hindi_answer": "कैक्टस का एक फल जिसमें चमकीली गुलाबी या पीली त्वचा और छोटे काले बीजों के साथ सफेद या लाल गूदा होता है।",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQytDn5E4g2mqsiG-qXGbt0ahb8krpuPB5WszYAuz69Qs12msip9AQMUFOf6R4yyCi8nlQ0_yhMyb9lJtRGzFF09OJYqLj1sXBLx9kTE7gp"
+    },
+    {
+      "question": "fig growing",
+      "hindi_question": "अंजीर उगाना",
+      "answer": "A soft, sweet fruit with a thin skin that can be green or purple, and a reddish flesh full of tiny seeds.",
+      "hindi_answer": "पतली त्वचा वाला एक नरम, मीठा फल जो हरा या बैंगनी हो सकता है, और छोटे बीजों से भरा लाल गूदा होता है।",
+      "image": "https://cdn.britannica.com/78/128178-004-CA4504F9/Fruit-fig.jpg?w=300"
+    },
+    {
+      "question": "grape growing",
+      "hindi_question": "अंगूर उगाना",
+      "answer": "A fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.",
+      "hindi_answer": "एक फल, वानस्पतिक रूप से एक बेरी, फूल वाले पौधे जीनस विटिस की पर्णपाती लकड़ी की लताओं का।",
+      "image": "https://cdn.britannica.com/55/45855-004-F6967222/Tartaric-acid-fruits-grapes.jpg?w=300"
+    },
+    {
+      "question": "guava growing",
+      "hindi_question": "अमरूद उगाना",
+      "answer": "A tropical fruit, typically with a yellow or light green skin, and a pink or white flesh with many small, hard seeds.",
+      "hindi_answer": "एक उष्णकटिबंधीय फल, जिसमें आमतौर पर पीली या हल्की हरी त्वचा होती है, और कई छोटे, कठोर बीजों के साथ गुलाबी या सफेद गूदा होता है।",
+      "image": "https://cdn.britannica.com/59/139059-050-30794D53/Guava-fruit.jpg?w=300"
+    },
+    {
+      "question": "kiwi growing",
+      "hindi_question": "कीवी उगाना",
+      "answer": "An oval-shaped fruit with a fuzzy brown skin, bright green flesh, and tiny, edible black seeds.",
+      "hindi_answer": "एक अंडाकार आकार का फल जिसमें एक फजी भूरी त्वचा, चमकीला हरा गूदा और छोटे, खाद्य काले बीज होते हैं।",
+      "image": "https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg?w=300"
+    },
+    {
+      "question": "lemon growing",
+      "hindi_question": "नींबू उगाना",
+      "answer": "A yellow, oval-shaped citrus fruit with a sour, acidic taste.",
+      "hindi_answer": "एक पीला, अंडाकार आकार का खट्टे फल जिसका स्वाद खट्टा, अम्लीय होता है।",
+      "image": "https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg?w=300"
+    },
+    {
+      "question": "lime growing",
+      "hindi_question": "चूना उगाना",
+      "answer": "A green, round citrus fruit with an acidic and aromatic pulp.",
+      "hindi_answer": "एक हरा, गोल खट्टे फल जिसमें अम्लीय और सुगंधित गूदा होता है।",
+      "image": "https://cdn.britannica.com/90/80590-050-F94F0332/Limes-peels-pulp-sections.jpg?w=300"
+    },
+    {
+      "question": "mango growing",
+      "hindi_question": "आम उगाना",
+      "answer": "A juicy stone fruit with skin ranging from green to red, and a sweet, golden-orange flesh.",
+      "hindi_answer": "हरे से लाल रंग की त्वचा वाला एक रसदार पत्थर का फल, और एक मीठा, सुनहरा-नारंगी गूदा।",
+      "image": "https://cdn.britannica.com/06/75906-050-16A53398/mango-fruits.jpg?w=300"
+    },
+    {
+      "question": "orange growing",
+      "hindi_question": "संतरा उगाना",
+      "answer": "A round citrus fruit with a tough, orange-colored skin and a sweet, juicy pulp.",
+      "hindi_answer": "एक गोल खट्टे फल जिसमें एक सख्त, नारंगी रंग की त्वचा और एक मीठा, रसदार गूदा होता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg"
+    },
+    {
+      "question": "papaya growing",
+      "hindi_question": "पपीता उगाना",
+      "answer": "A large, pear-shaped fruit with a green or yellow skin, orange flesh, and black seeds.",
+      "hindi_answer": "एक बड़ा, नाशपाती के आकार का फल जिसमें हरी या पीली त्वचा, नारंगी गूदा और काले बीज होते हैं।",
+      "image": "https://cdn.britannica.com/31/157531-050-25D8087E/Papaya-fruit.jpg?w=300"
+    },
+    {
+      "question": "peach growing",
+      "hindi_question": "आड़ू उगाना",
+      "answer": "A soft, juicy fruit with a fuzzy skin and a sweet, yellowish or whitish flesh.",
+      "hindi_answer": "एक नरम, रसदार फल जिसमें एक फजी त्वचा और एक मीठा, पीला या सफेद गूदा होता है।",
+      "image": "https://cdn.britannica.com/68/124168-050-33A2B851/Fruit-peach-tree.jpg?w=300"
+    },
+    {
+      "question": "pear growing",
+      "hindi_question": "नाशपाती उगाना",
+      "answer": "A sweet, bell-shaped fruit with a green or yellowish skin and a soft, juicy flesh.",
+      "hindi_answer": "एक मीठा, घंटी के आकार का फल जिसमें हरी या पीली त्वचा और नरम, रसदार गूदा होता है।",
+      "image": "https://cdn.britannica.com/86/9686-050-C65E6B05/Fruits-pear.jpg?w=300"
+    },
+    {
+      "question": "pineapple growing",
+      "hindi_question": "अनानास उगाना",
+      "answer": "A large tropical fruit with a tough, spiky skin and a sweet, juicy yellow flesh.",
+      "hindi_answer": "एक बड़ा उष्णकटिबंधीय फल जिसमें एक सख्त, कांटेदार त्वचा और एक मीठा, रसदार पीला गूदा होता है।",
+      "image": "https://cdn.britannica.com/54/119354-050-FA32210A/pineapple.jpg?w=300"
+    },
+    {
+      "question": "plum growing",
+      "hindi_question": "बेर उगाना",
+      "answer": "A smooth-skinned, oval fruit with a sweet or tart taste and a single hard seed.",
+      "hindi_answer": "एक चिकनी-चमड़ी, अंडाकार फल जिसका स्वाद मीठा या खट्टा होता है और एक ही कठोर बीज होता है।",
+      "image": "https://cdn.britannica.com/71/115271-050-3EEF6DFD/Plums-tree.jpg?w=300"
+    },
+    {
+      "question": "pomegranate growing",
+      "hindi_question": "अनार उगाना",
+      "answer": "A round fruit with a hard, reddish outer skin, containing hundreds of edible seeds called arils.",
+      "hindi_answer": "एक गोल फल जिसमें एक कठोर, लाल बाहरी त्वचा होती है, जिसमें सैकड़ों खाद्य बीज होते हैं जिन्हें एरिल्स कहा जाता है।",
+      "image": "https://cdn.britannica.com/96/201196-050-C0441508/Batch-pomegranate-fruits.jpg?w=300"
+    },
+    {
+      "question": "strawberry growing",
+      "hindi_question": "स्ट्रॉबेरी उगाना",
+      "answer": "A sweet, red, heart-shaped fruit, with a seeded surface.",
+      "hindi_answer": "एक मीठा, लाल, दिल के आकार का फल, जिसकी सतह पर बीज होते हैं।",
+      "image": "https://cdn.britannica.com/20/174520-050-64C6FD6B/Cartons-strawberries-farmers-market.jpg?w=300"
+    },
+    {
+      "question": "watermelon growing",
+      "hindi_question": "तरबूज उगाना",
+      "answer": "A large, sweet fruit with a green-striped rind and a juicy, red or pink flesh with black seeds.",
+      "hindi_answer": "एक बड़ा, मीठा फल जिसमें हरे-धारीदार छिलका और एक रसदार, लाल या गुलाबी गूदा होता है जिसमें काले बीज होते हैं।",
+      "image": "https://cdn.britannica.com/99/143599-050-C3289491/Watermelon.jpg?w=300"
+    },
+    {
+      "question": "tea growing",
+      "hindi_question": "चाय उगाना",
+      "answer": "Tea is a perennial shrub cultivated for its young leaves, which are processed to make the popular beverage.",
+      "hindi_answer": "चाय एक बहुवर्षीय झाड़ी है जिसे इसकी कोमल पत्तियों के लिए उगाया जाता है, जो लोकप्रिय पेय बनाने के लिए प्रसंस्कृत की जाती हैं।",
+      "image": "https://cdn.britannica.com/18/115018-050-FF886CBD/Rows-tea-background-Japan-Mount-Fuji.jpg?w=300"
+    },
+    {
+      "question": "coffee growing",
+      "hindi_question": "कॉफ़ी उगाना",
+      "answer": "Coffee is a tropical plant grown for its beans, which are roasted and ground to produce the popular drink.",
+      "hindi_answer": "कॉफ़ी एक उष्णकटिबंधीय पौधा है जिसे इसकी बीन्स के लिए उगाया जाता है, जिन्हें भूनकर और पीसकर लोकप्रिय पेय तैयार किया जाता है।",
+      "image": "https://cdn.britannica.com/16/138916-050-93D18857/coffee-beans-ground-paper-bags.jpg?w=300"
+    },
+    {
+      "question": "wheat growing",
+      "hindi_question": "गेहूं उगाना",
+      "answer": "Wheat is a cereal grain grown worldwide for its seed, a staple food used to make flour.",
+      "hindi_answer": "गेहूं एक अनाज है जो दुनिया भर में इसके बीज के लिए उगाया जाता है, एक मुख्य खाद्य जिससे आटा बनाया जाता है।",
+      "image": "https://cdn.britannica.com/90/94190-050-C0BA6A58/Cereal-crops-wheat-reproduction.jpg?w=300"
+    },
+    {
+      "question": "rice growing",
+      "hindi_question": "धान उगाना",
+      "answer": "Rice is a staple food crop grown primarily in flooded fields. It is one of the most widely consumed cereal grains in the world.",
+      "hindi_answer": "धान एक मुख्य खाद्य फसल है जिसे मुख्य रूप से पानी भरे खेतों में उगाया जाता है। यह दुनिया में सबसे अधिक खाया जाने वाला अनाज है।",
+      "image": "https://cdn.britannica.com/89/140889-050-EC3F00BF/Ripening-heads-rice-Oryza-sativa.jpg?w=300"
+    },
+    {
+      "question": "maize growing",
+      "hindi_question": "मक्का उगाना",
+      "answer": "Maize is a widely cultivated grain crop known for its role in food and nutrition.",
+      "hindi_answer": "मक्का एक व्यापक रूप से उगाई जाने वाली grain फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrmXSYG7SZruUY1eqMnRl0yrzw6H5lcdpao6ovCLMLTzw2roeIZVLP7wfGbHGXKNlYOsM2buAGP2uzauGShEl2_gS_e3w_cQk5u7Goq4mP"
+    },
+    {
+      "question": "barley growing",
+      "hindi_question": "जौ उगाना",
+      "answer": "Barley is a widely cultivated grain crop known for its role in food and nutrition.",
+      "hindi_answer": "जौ एक व्यापक रूप से उगाई जाने वाली grain फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/47/5647-004-BD713672/spikes-barley.jpg?w=300"
+    },
+    {
+      "question": "bajra growing",
+      "hindi_question": "बाजरा उगाना",
+      "answer": "Bajra is a widely cultivated grain crop known for its role in food and nutrition.",
+      "hindi_answer": "बाजरा एक व्यापक रूप से उगाई जाने वाली grain फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNYBh0YrhVceDuTWBLHRGdHVH2UyQuotSS1jqvPbbk4Y25vyk5PKfAhgqUtUPuIErUwOPJsWeUI_RsDgzqo1d4Fkse9TwcfJOMY-BEyPHdxA"
+    },
+    {
+      "question": "jowar growing",
+      "hindi_question": "ज्वार उगाना",
+      "answer": "Jowar is a widely cultivated grain crop known for its role in food and nutrition.",
+      "hindi_answer": "ज्वार एक व्यापक रूप से उगाई जाने वाली grain फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxmdM78JNnEKFj7BrpXAIpXwnIE1ZQ3BdQdm6lChJ2YBsEof1SLwpQgLTkVWyGPWCNkbHTTrTC5jCOh49X70DN-ho1o2kAlGnqdM-mYrt4"
+    },
+    {
+      "question": "sugarcane growing",
+      "hindi_question": "गन्ना उगाना",
+      "answer": "Sugarcane is a widely cultivated cash crop known for its role in food and nutrition.",
+      "hindi_answer": "गन्ना एक व्यापक रूप से उगाई जाने वाली cash crop फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/67/125067-050-F318A0E6/Sugarcane.jpg?w=300"
+    },
+    {
+      "question": "cotton growing",
+      "hindi_question": "कपास उगाना",
+      "answer": "Cotton is a widely cultivated fiber crop known for its role in textiles.",
+      "hindi_answer": "कपास एक व्यापक रूप से उगाई जाने वाली fiber फसल है जो कपड़ों के निर्माण में उपयोग की जाती है।",
+      "image": "https://cdn.britannica.com/72/270772-050-9B03FF80/Cotton-plants-in-a-field.jpg?w=1000"
+    },
+    {
+      "question": "soybean growing",
+      "hindi_question": "सोयाबीन उगाना",
+      "answer": "Soybean is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "सोयाबीन एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/28/154828-050-05C6239A/Soybeans.jpg?w=300"
+    },
+    {
+      "question": "mustard growing",
+      "hindi_question": "सरसों उगाना",
+      "answer": "Mustard is a widely cultivated oilseed crop known for its role in food and nutrition.",
+      "hindi_answer": "सरसों एक व्यापक रूप से उगाई जाने वाली oilseed फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI15ZyT3tDZnHj06Ddx8TEsR_cLFDRAtkP4TNBWdSPFUn4wXlFgj0qC8UmBrqBlV1xU3wPKedP0YItbOH7b3BSTW_l8dXK21jlHOtxy-2c"
+    },
+    {
+      "question": "peanut growing",
+      "hindi_question": "मूंगफली उगाना",
+      "answer": "Peanut is a widely cultivated oilseed crop known for its role in food and nutrition.",
+      "hindi_answer": "मूंगफली एक व्यापक रूप से उगाई जाने वाली oilseed फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/88/9688-050-A6CC6CE9/Peanut.jpg?w=300"
+    },
+    {
+      "question": "chickpea growing",
+      "hindi_question": "चना उगाना",
+      "answer": "Chickpea is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "चना एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://cdn.britannica.com/65/176565-050-D6AB65D7/chickpeas-garbanzos.jpg?w=300"
+    },
+    {
+      "question": "pigeon pea growing",
+      "hindi_question": "अरहर उगाना",
+      "answer": "Pigeon Pea is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "अरहर एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://gardenerspath.com/wp-content/uploads/2022/02/How-to-Grow-Pigeon-Peas-Feature.jpg"
+    },
+    {
+      "question": "black gram growing",
+      "hindi_question": "उड़द उगाना",
+      "answer": "Black Gram is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "उड़द एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-VCMecKtkaQo5oZ23uKEEyk0n3ZjXPy_dBjRqrNFZCjfaYKuMSqJkApf21g-sc9e-_gqWTsi7UDiw0VKW6cT_eVQ4K0aKx90LxrIcxreaww"
+    },
+    {
+      "question": "green gram growing",
+      "hindi_question": "मूंग उगाना",
+      "answer": "Green Gram is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "मूंग एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcsibSKIMuwViXqbygABRegD0FUGvW5LqYZ3V2_WctKMxV64A5PNZdevnbh0qKdKUvW37sq9-DxF2ynHtHzDzHEgAUkVX5nUluc9Hn8N2Hug"
+    },
+    {
+      "question": "lentil growing",
+      "hindi_question": "मसूर उगाना",
+      "answer": "Lentil is a widely cultivated legume crop known for its role in food and nutrition.",
+      "hindi_answer": "मसूर एक व्यापक रूप से उगाई जाने वाली legume फसल है जो भोजन और पोषण में इसकी भूमिका के लिए जानी जाती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/250px-3_types_of_lentil.png"
+    }
+  ]
+}
